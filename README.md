@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed8fb6a8-54c5-4fcc-b207-320bcd50641e" width="400">
+  <img src="https://github.com/user-attachments/assets/ed8fb6a8-54c5-4fcc-b207-320bcd50641e" width="200">
 </p>
 
 # Roll Dice
